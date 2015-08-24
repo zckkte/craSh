@@ -1,3 +1,9 @@
+/*
+ * @title: craSh - a simple UNIX command interpreter.
+ * @author: Zack A. Kite
+ */
+
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdbool.h>
