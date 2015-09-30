@@ -1,5 +1,7 @@
 # CraSh - Crash Again Shell
 A simple UNIX shell
 
-# TODO:
-Implement pipes and file redirection
+### TODO:
+> pipelines
+> file redirection
+> addtional built-in commands
