@@ -2,6 +2,6 @@
 A simple UNIX shell
 
 ### TODO:
-> pipelines
-> file redirection
-> addtional built-in commands
+- pipelines
+- file redirection
+- addtional built-in commands
